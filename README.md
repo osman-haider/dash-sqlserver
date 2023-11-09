@@ -17,7 +17,7 @@ Before running the app, make sure you have the following:
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/osman-haider/dash-sqlserver.git
 ```
 
 2. Create a `.env` file in the root directory of the project and add your SQL Server database credentials in the following format:
